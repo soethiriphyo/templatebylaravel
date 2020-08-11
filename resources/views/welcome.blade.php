@@ -93,6 +93,10 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="{{route('homename')}}">Home</a>
+                    <a href="{{route('aboutname')}}">About</a>
+
+                    <a href="{{route('contactname')}}">Contact</a>
                 </div>
             </div>
         </div>
